@@ -13,5 +13,9 @@
     "contract": "yarn workspace contract",
     "client": "yarn workspace client",
     "test": "yarn workspace contract test"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
   }
 }
